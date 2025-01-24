@@ -31,7 +31,7 @@ class MainActivity : AppCompatActivity() {
         textView = findViewById(R.id.textView)
 
         CoroutineScope(Dispatchers.IO).launch {
-            startContinuousPing("192.168.2.168")
+            startContinuousPing("yandex.ru")
         }
 
 //        CoroutineScope(Dispatchers.IO).launch{

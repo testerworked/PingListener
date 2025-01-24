@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PingListener</string>
+    <string name="ping_text">Ping Results</string>
+</resources>
